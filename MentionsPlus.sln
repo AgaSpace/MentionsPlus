@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentionsPlus", "MentionsPlus\MentionsPlus.csproj", "{D116BF77-D214-44D0-B36F-40EC88E90832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{DA56F647-5D21-4953-8B46-7307F57BF759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mentions", "Mentions\Mentions\Mentions.csproj", "{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D116BF77-D214-44D0-B36F-40EC88E90832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D116BF77-D214-44D0-B36F-40EC88E90832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D116BF77-D214-44D0-B36F-40EC88E90832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D116BF77-D214-44D0-B36F-40EC88E90832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22063FB6-3B06-43EB-81B9-7CEABFBEEF8D} = {DA56F647-5D21-4953-8B46-7307F57BF759}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06635B96-C8D7-4BF9-8057-19827A62D342}
+	EndGlobalSection
+EndGlobal

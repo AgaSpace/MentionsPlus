@@ -1,0 +1,3 @@
+[submodule "Mentions"]
+	path = Mentions
+	url = https://github.com/TerraZ-Dev/Mentions.git
